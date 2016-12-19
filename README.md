@@ -51,7 +51,7 @@ for i, key in enumerate(aDict):
 ```
 ---
 4. **类型比较**
-```
+```python
 # type()获得对象类型
 # print type(aDict)
 # 使用isinstance来判断对象的类型与类型是否一样
@@ -61,7 +61,7 @@ print isinstance(aDict, list)  # False
 ```
 ---
 5. **in 操作**
-```
+```python
 # in 操作
 print 'bc' in 'abcd' #True
 print 'n' in 'abcd' #False
@@ -128,7 +128,7 @@ print 'nm' not in 'abcd' #True
 
 ---
 7. **Python逻辑运算符之 and or not**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
@@ -164,7 +164,7 @@ else:
 ```
 ---
 8. **Python成员运算符之 in not in**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
@@ -191,7 +191,7 @@ else:
 ```
 ---
 9.**Python身份运算符之 is is not**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
@@ -222,7 +222,7 @@ else:
 ```
 ---
 10. **for 循环**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
  
@@ -236,7 +236,7 @@ for fruit in fruits:        # 第二个实例
 print "Good bye!"
 ```
 **通过序列索引迭代**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
  
@@ -247,7 +247,7 @@ for index in range(len(fruits)):
 print "Good bye!"
 ```
 **循环使用 else 语句**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
  
@@ -261,7 +261,7 @@ for num in range(10,20):  # 迭代 10 到 20 之间的数字
       print num, '是一个质数'
 ```
 **实例：以下实例使用了嵌套循环输出2~100之间的素数：**
-```
+```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
@@ -282,28 +282,6 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 [1]: http://google.com/        "Google" 
 [2]: http://search.yahoo.com/  "Yahoo Search" 
 [3]: http://search.msn.com/    "MSN Search"
- 
-<table>
-<tr>
-<td>
 
-![alt text](image/PP0.png "Title")
+![alt text](https://github.com/DevinLow/DevinLow.github.io/blob/master/image/PP0.png "Title")
 
-</td>
-<td>
-
-![alt text](image/PP0.png "Title")
-
-</td>
-<td>
-
-![alt text](image/PP0.png "Title")
-
-</td>
-<td>
-
-![alt text](image/PP0.png "Title")
-
-</td>
-</tr>
-</table>
