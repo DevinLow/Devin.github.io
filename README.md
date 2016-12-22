@@ -278,11 +278,11 @@ print "Good bye!"
 ```
 ---
 I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
-[my csdn blog] [4]
 [1]: http://google.com/        "Google" 
 [2]: http://search.yahoo.com/  "Yahoo Search" 
 [3]: http://search.msn.com/    "MSN Search"
-[4]:http://blog.csdn.net/a193314  "CSDN"
 
+[MY CSDN BLOG] [4]
+[4]:http://blog.csdn.net/a193314  "CSDN"
 ![alt text](https://github.com/DevinLow/DevinLow.github.io/blob/master/image/PP0.png "Title")![alt text](https://github.com/DevinLow/DevinLow.github.io/blob/master/image/PP0.png "Title")![alt text](https://github.com/DevinLow/DevinLow.github.io/blob/master/image/PP0.png "Title")
 
