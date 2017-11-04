@@ -1,5 +1,5 @@
 ---
-## **1,Android 笔记**
+## **Android 笔记**
 ### **编码显示Android firmware version 之类的信息**
 ```java
 import android.os.Build;
