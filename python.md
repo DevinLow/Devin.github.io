@@ -154,7 +154,9 @@ else:
    print "5 - 变量 a 和 b 都为 true"
 ```
 ---
+
 8. **Python成员运算符之 in not in**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
@@ -181,7 +183,9 @@ else:
    print "3 - 变量 a 不在给定的列表中 list 中"
 ```
 ---
+
 9.**Python身份运算符之 is is not**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
@@ -212,7 +216,9 @@ else:
    print "4 - a 和 b 有相同的标识"
 ```
 ---
+
 10. **for 循环**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
@@ -226,7 +232,9 @@ for fruit in fruits:        # 第二个实例
  
 print "Good bye!"
 ```
+
 **通过序列索引迭代**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
@@ -251,7 +259,9 @@ for num in range(10,20):  # 迭代 10 到 20 之间的数字
    else:                  # 循环的 else 部分
       print num, '是一个质数'
 ```
+
 **实例：以下实例使用了嵌套循环输出2~100之间的素数：**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
