@@ -2,7 +2,9 @@
 
 
 
-
+- Android
+- Python
+- Uboot
 
 
 
