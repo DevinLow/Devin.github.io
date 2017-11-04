@@ -1,7 +1,7 @@
 <h1 align = center>目录</h1>
-- Android
-- Python
-- Uboot
+- [Android](/android.md)
+- [Python](/python.md)
+- [Uboot](/u-boot.md)
 
 
 
