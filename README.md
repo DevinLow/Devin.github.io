@@ -1,4 +1,4 @@
-[](/shell.md)<h1 align = center>目录</h1>
+<h1 align = center>目录</h1>
 - [Android](/android.md)
 - [Python](/python.md)
 - [U-boot](/u-boot.md)
