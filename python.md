@@ -116,7 +116,9 @@ print 'nm' not in 'abcd' #True
 </table>
 
 ---
+
 7. **Python逻辑运算符之 and or not**
+
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
