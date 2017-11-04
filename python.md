@@ -1,6 +1,7 @@
 ## **Python 笔记**
 ### **基础使用**
 1. **类型转换**
+
 ```python
 print 'hello python!' #hello python!
 
